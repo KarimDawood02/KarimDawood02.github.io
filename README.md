@@ -5,13 +5,14 @@ Flowers convey emotion and brighten a special someone's mood. People have always
  
 Thus our floral e-commerce business model blossomed to become something more than just a floating idea at the back of our minds. Flōra helps people to connect and express through flowers. We provide online services to our customers by sending premium quality fresh flowers online to a few major countries through our local flower delivery. We also offer free consultation for a diversity of events.
 
-### What we offer? 
+### What We Offer? 
 - Eye catching content 
 - Responsive website on both mobile & desktop using JS 
 - Gift Basket & Easy navigation 
 - Lush flowers & more.
 - Ability to Register to our website then Login whenever you desire to maintain your account's data
 
+### Domain
 _Our main domain is hosted at [Flora](https://karimdawood02.github.io./)_
 
 ### Main Contributors
