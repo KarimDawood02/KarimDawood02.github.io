@@ -12,7 +12,7 @@ Thus our floral e-commerce business model blossomed to become something more tha
 - Lush flowers & more.
 - Ability to Register to our website then Login whenever you desire to maintain your account's data
 
-_Our main domain will be hosted at [Flora](KarimDawood02.github.io)_
+_Our main domain will be hosted at [Flora](https://github.com/KarimDawood02/KarimDawood02.github.io)_
 
 ### Main Contributors
 
